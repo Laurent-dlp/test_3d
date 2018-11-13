@@ -6,6 +6,7 @@ traittypes
 traitlets
 Pillow
 scipy
+pandas
 nbsphinx
 recommonmark
 matplotlib<2
